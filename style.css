@@ -1,0 +1,46 @@
+h1 {
+    margin-left: 10px;
+}
+
+#parent {
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+#input-text {
+    margin-left: 10px;
+    height: 40px;
+    width: 400px;
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 25px;
+}
+
+#btn {
+    margin-left: 30px;
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+    /* border: none; */
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.deletePara {
+    margin-left: 40px;
+    margin-right: 10px;
+    background-color: transparent;
+    width: 70px;
+    height: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.editPara {
+    background-color: transparent;
+    width: 70px;
+    height: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
